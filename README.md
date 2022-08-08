@@ -1,4 +1,6 @@
 ### Hi there 👋
+Meu nome é Junior, estou concluindo o curso Full Stack na Kenzie Academy. Estou procurando fazer uma transição de carreira para a área de TI. Uso as seguintes tecnologias: JavaScript, TypeScript, Node.js.
+
 
 <!--
 **Junior-A-Silva/Junior-A-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
